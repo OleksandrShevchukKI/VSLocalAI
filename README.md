@@ -14,7 +14,7 @@ This extension now functions independently of IntelliCode.
 - Hotkeys for manual generation requests and re-displaying lost suggestions.
 
 ## Examples
-VSLocalAI supports both single-line and multi-line suggestions.
+VSLocalAI supports both single-line and multi-line suggestions.\
 Singleline\
 ![](https://github.com/cntseesharp/L.AI/blob/main/images/generation_example_1.jpg?raw=true)
 
@@ -50,10 +50,3 @@ Start Visual Studio and begin coding. VSLocalAI will provide suggestions in a si
 
 ## Known Issues
 - IntelliCode may occasionally override VSLocalAI’s suggestions. However, VSLocalAI can now function without IntelliCode enabled.
-
-### v1.6.2
-- Fixed a bug that was overriding the context length.
-- Resolved a pipeline-breaking issue.
-
-### v1.6.2 - R
-- Released source code.
